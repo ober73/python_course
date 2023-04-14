@@ -1,0 +1,25 @@
+# Python Course #
+
+## Print Function ##
+
+print ("Hello future Python programmer!)`
+
+print is a built-in function
+
+some come from modules
+
+\n new line character
+
+
+key work end=" "
+
+sep= 
+
+\ tells us that the next character is special
+
+## QUIZ ###
+
+he output of the following code will be:
+
+TypeError: can only concatenate str (not "int") to str		
+TypeError
