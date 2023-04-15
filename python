@@ -23,3 +23,72 @@ he output of the following code will be:
 
 TypeError: can only concatenate str (not "int") to str		
 TypeError
+
+
+## Literals ##
+
+4 types
+
+Integers (octal 0o123) 8 to the power of these numbers
+
+so 0o123 is 
+
+8 to the power of 2 = 64
+
+8 to the power of 1 = 8
+
+8 to the power of 0 = 1
+
+then calculate with the numbers
+
+so 1 x 64 = 64
+   2 x 8  = 16
+   3 x 1  = 1
+   
+   so = 83
+
+  (hexadecimal uses 16 as the base )
+  0x123 
+  
+  16 to the power of 2 = 254
+  
+  16 to the power of 1 = 16
+  
+  16 to the power of 0 = 1
+  
+  then multiply to the actual values of the numbers
+  
+  256 x 1 = 256
+  16 x 2 = 32
+  1 x 3 = 3
+  
+  = 291
+  
+  
+
+Floating point numbers
+
+
+
+
+
+
+Strings
+
+double quotes or single quotes
+
+you can also use escape characters to show quotes in quotes
+
+" Hello! "\"Python\" is cool"
+
+Booleans
+
+True or False
+
+True = 1
+
+False = 0
+
+
+
+
